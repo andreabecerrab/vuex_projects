@@ -1,2 +1,2 @@
 # vuex_projects
-Vuex proof of concepts. (Vuex, Vuex + ORM, Vuex-ORM + graphql plugin
+Vuex examples. (Vuex, Vuex + ORM, Vuex-ORM + graphql plugin
