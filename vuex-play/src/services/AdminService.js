@@ -10,9 +10,7 @@ export default {
   },
   // get qnumbers
   getEmployeesByHeadQnumber() {
-    return Api_acount.get(
-      `employee/get-employees-by-deptHead?qnumber=${ID_NUMBER}`
-    );
+    return Api_acount.get(`employee/get-employees?qnumber=${ID_NUMBER}`);
   },
   async getBookingsManager(queryParams) {
     try {
@@ -37,7 +35,7 @@ export default {
 
   getBookingsPoolOwner(queryParams) {
     return Api_fleet.post(
-      `booking/get-bookings-by-pool-owner?${queryParams}&qnumber=${ID_NUMBER}`
+      `booking/get-bookings?${queryParams}&qnumber=${ID_NUMBER}`
     );
   },
 };
