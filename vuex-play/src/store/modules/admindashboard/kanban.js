@@ -9,17 +9,17 @@ const kanban = {
           {
             statusId: 1,
             bookingStatus: "Available",
-            reasonId: { reason: "Conference" }
+            reasonId: { reason: "Conference" },
           },
           {
             statusId: 6,
-            bookingStatus: "Edition"
+            bookingStatus: "Edition",
           },
           {
             statusId: 3,
-            bookingStatus: "Pending"
-          }
-        ]
+            bookingStatus: "Pending",
+          },
+        ],
       },
       bookings: [
         {
@@ -29,8 +29,8 @@ const kanban = {
           reasonId: {
             reasonId: 3,
             reason: "Conference",
-            userSeniority: 0
-          }
+            userSeniority: 0,
+          },
         },
         {
           bookingId: 2,
@@ -39,54 +39,54 @@ const kanban = {
           reasonId: {
             reasonId: 3,
             reason: "Conference",
-            userSeniority: 0
-          }
+            userSeniority: 0,
+          },
         },
 
         {
           bookingId: 3,
           agenda: "",
-          applicant: "Q506800",
+          applicant: "123456",
           reasonId: {
             reasonId: 3,
             reason: "Conference",
-            userSeniority: 0
-          }
+            userSeniority: 0,
+          },
         },
         {
           bookingId: 4,
           agenda: "",
-          applicant: "Q506800",
+          applicant: "123456",
           reasonId: {
             reasonId: 3,
             reason: "Conference",
-            userSeniority: 0
-          }
+            userSeniority: 0,
+          },
         },
         {
           bookingId: 5,
           agenda: "",
-          applicant: "Q506800",
+          applicant: "123456",
           reasonId: {
             reasonId: 3,
             reason: "Conference",
-            userSeniority: 0
-          }
+            userSeniority: 0,
+          },
         },
         {
           bookingId: 6,
           agenda: "",
-          applicant: "Q506800",
+          applicant: "123456",
           approverActionRegistries: [{}],
           reasonId: {
             reasonId: 3,
             reason: "Conference",
-            userSeniority: 0
-          }
-        }
-      ]
-    }
-  }
+            userSeniority: 0,
+          },
+        },
+      ],
+    },
+  },
 };
 
 export default kanban;
