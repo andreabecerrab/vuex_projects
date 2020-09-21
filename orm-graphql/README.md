@@ -1,4 +1,4 @@
-# orm-graphql
+# ORM and GraphQL plugin
 
 ## Project setup
 ```
