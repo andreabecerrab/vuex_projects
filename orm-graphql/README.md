@@ -22,3 +22,7 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+## Example
+Deleting posts 
+![alt text](https://github.com/andreabecerrab/vuex_projects/blob/master/orm-graphql/src/img/orm-graphql.png)
