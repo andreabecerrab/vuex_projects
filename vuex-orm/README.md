@@ -1,4 +1,4 @@
-# vuex-orm
+# Vuex ORM
 
 > A Vue.js project
 
