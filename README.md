@@ -1,2 +1,4 @@
-# vuex_projects
-Vuex examples. (Vuex, Vuex + ORM, Vuex-ORM + graphql plugin
+# Vuex Projects
+- Vuex
+- Vuex + Vuex-ORM
+- Vuex-ORM + GraphQL plugin
