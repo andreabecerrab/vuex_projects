@@ -16,3 +16,13 @@ npm run build
 ```
 
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+## Example
+
+![alt text](https://github.com/andreabecerrab/vuex_projects/blob/master/vuex-orm/src/img/orm.png)
+
+**One to one relation**
+![alt text](https://github.com/andreabecerrab/vuex_projects/blob/master/vuex-orm/src/img/orm-one-to-one.png)
+
+**One to many relation**
+![alt text](https://github.com/andreabecerrab/vuex_projects/blob/master/vuex-orm/src/img/orm-one-to-many.png)
