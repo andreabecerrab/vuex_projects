@@ -1,4 +1,4 @@
-# vuex-play
+# Vuex
 
 > A Vue.js project
 
