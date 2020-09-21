@@ -21,8 +21,8 @@ For detailed explanation on how things work, consult the [docs for vue-loader](h
 
 ![alt text](https://github.com/andreabecerrab/vuex_projects/blob/master/vuex-orm/src/img/orm.png)
 
-**One to one relation**
+**One to one relation** <br/>
 ![alt text](https://github.com/andreabecerrab/vuex_projects/blob/master/vuex-orm/src/img/orm-one-to-one.png)
 
-**One to many relation**
+**One to many relation**<br/>
 ![alt text](https://github.com/andreabecerrab/vuex_projects/blob/master/vuex-orm/src/img/orm-one-to-many.png)
